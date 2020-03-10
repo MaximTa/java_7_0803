@@ -17,7 +17,7 @@ public class FinishGameWindow extends JFrame {
         setVisible(true);
         gameOver();
     }
-
+//Задание 8
     public void gameOver() {
 
         if (Logic.winnerName.equals("Игрок ПОБЕДИЛ!!!")) {
